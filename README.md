@@ -19,7 +19,7 @@ python2 :)
 <h2 align="center"> XFORD CLONNING PREMIUM TOOL </h2>
 
 <p align="center">
-      XCARET CLONNING
+      XFORD CLONNING
 </p>
 
 
